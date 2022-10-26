@@ -1,0 +1,19 @@
+.mainMenu{
+	width: 100%;
+	list-style-type: none;
+	overflow: hidden;
+	background-color: #333;
+}
+.mainItem{
+	float: left;
+}
+.mainItem a {
+	display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+.mainItem a:hover {
+	background-color: #111;
+}
